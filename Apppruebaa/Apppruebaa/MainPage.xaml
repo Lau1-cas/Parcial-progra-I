@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Apppruebaa.MainPage">
+
+    <StackLayout Orientation="Vertical">
+        <Label Text="Bienvenido" FontSize="Large" 
+               HorizontalOptions="Center" BackgroundColor="LightPink"
+               TextColor="Black"/>
+        <Label Text="Elija una opción" FontSize="Large" 
+               HorizontalOptions="Center" BackgroundColor="LightBlue"
+               TextColor="Black"/>
+        <Button x:Name="btnpag2" Text="Adivino un número" Clicked="btnpag2_Clicked" BackgroundColor="Violet"/>
+        <Button x:Name="btnpag3" Text="Adivino fecha de cumpleaños" Clicked="btnpag3_Clicked" BackgroundColor="LightBlue"/>
+
+
+
+    </StackLayout>
+
+</ContentPage>

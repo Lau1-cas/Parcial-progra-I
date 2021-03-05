@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Apppruebaa.Segunda">
+    <ContentPage.Content>
+        <StackLayout>
+            
+            
+            <Label BackgroundColor="LightBlue"
+               HorizontalOptions="CenterAndExpand"
+               Text="**Ingrese un número aleatorio**" 
+              
+               TextColor="White"
+               FontSize="20"/>
+            <Entry Placeholder="respuesta" x:Name="lblnum"
+                   HorizontalOptions="Center" Keyboard="Numeric"/>
+            <Button Text="GO!" x:Name="btnxd"
+                    CornerRadius="35"
+                    BackgroundColor="LightPink"
+                    BorderColor="Violet"
+                    BorderWidth="1"
+                    Clicked="btnxd_Clicked"/>
+            <Label Text="..." FontSize="Large" x:Name="lblL"
+                    
+                   />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

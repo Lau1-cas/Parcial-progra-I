@@ -1,0 +1,16 @@
+C:\Users\USUARIO\source\repos\Apppruebaa\Apppruebaa\Apppruebaa\bin\Debug\netstandard2.0\Apppruebaa.deps.json
+C:\Users\USUARIO\source\repos\Apppruebaa\Apppruebaa\Apppruebaa\bin\Debug\netstandard2.0\Apppruebaa.dll
+C:\Users\USUARIO\source\repos\Apppruebaa\Apppruebaa\Apppruebaa\bin\Debug\netstandard2.0\ref\Apppruebaa.dll
+C:\Users\USUARIO\source\repos\Apppruebaa\Apppruebaa\Apppruebaa\bin\Debug\netstandard2.0\Apppruebaa.pdb
+C:\Users\USUARIO\source\repos\Apppruebaa\Apppruebaa\Apppruebaa\obj\Debug\netstandard2.0\Apppruebaa.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\Apppruebaa\Apppruebaa\Apppruebaa\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USUARIO\source\repos\Apppruebaa\Apppruebaa\Apppruebaa\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\USUARIO\source\repos\Apppruebaa\Apppruebaa\Apppruebaa\obj\Debug\netstandard2.0\Segunda.xaml.g.cs
+C:\Users\USUARIO\source\repos\Apppruebaa\Apppruebaa\Apppruebaa\obj\Debug\netstandard2.0\Tercera.xaml.g.cs
+C:\Users\USUARIO\source\repos\Apppruebaa\Apppruebaa\Apppruebaa\obj\Debug\netstandard2.0\Apppruebaa.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Apppruebaa\Apppruebaa\Apppruebaa\obj\Debug\netstandard2.0\Apppruebaa.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Apppruebaa\Apppruebaa\Apppruebaa\obj\Debug\netstandard2.0\Apppruebaa.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Apppruebaa\Apppruebaa\Apppruebaa\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\USUARIO\source\repos\Apppruebaa\Apppruebaa\Apppruebaa\obj\Debug\netstandard2.0\Apppruebaa.dll
+C:\Users\USUARIO\source\repos\Apppruebaa\Apppruebaa\Apppruebaa\obj\Debug\netstandard2.0\ref\Apppruebaa.dll
+C:\Users\USUARIO\source\repos\Apppruebaa\Apppruebaa\Apppruebaa\obj\Debug\netstandard2.0\Apppruebaa.pdb

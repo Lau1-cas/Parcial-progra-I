@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Apppruebaa.Tercera">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label BackgroundColor="LightBlue"
+               HorizontalOptions="CenterAndExpand"
+               Text="**Ingrese el dia de nacimiento**" 
+            
+               TextColor="White"
+               FontSize="20"/>
+            <Entry Placeholder="respuesta"   x:Name="lbldia"
+                   HorizontalOptions="Center" Keyboard="Numeric"/>
+           
+            
+            <Label BackgroundColor="LightBlue"
+               HorizontalOptions="CenterAndExpand"
+               Text="**Ingrese su mes de nacimiento**"
+             
+               TextColor="White"
+               FontSize="20"/>
+            <Entry Placeholder="respuesta"  x:Name="lblmes"
+                   HorizontalOptions="Center" Keyboard="Numeric"/>
+            <Button Text="GO!" 
+                    CornerRadius="35"
+                    BackgroundColor="LightPink"
+                    BorderColor="Violet"
+                    BorderWidth="1"
+                    x:Name="GO"
+                    Clicked="GO_Clicked"
+                   />
+            <Label Text="..." FontSize="Large" x:Name="resultado" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
